@@ -8,6 +8,9 @@
 [submodule "geobr"]
 	path = geobr
 	url = https://github.com/cran/geobr
+[submodule "geocodebr"]
+	path = geocodebr
+	url = https://github.com/cran/geocodebr
 [submodule "r5r"]
 	path = r5r
 	url = https://github.com/cran/r5r
